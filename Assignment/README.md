@@ -4,3 +4,11 @@ Download dataset : https://essexuniversity-my.sharepoint.com/personal/hr17576_es
 Use file called MobileNet_for_Project1.ipynb to perform binary classificaiton
 
 Dataset must be uploaded into Google Drive first in order to uses the given code
+
+Run the code sequentially. However, make sure that in ImageDataGenerator cell the output is
+
+Found 31501 images belonging to 2 classes.
+Found 7874 images belonging to 2 classes.
+Found 8617 images belonging to 2 classes.
+
+If the output is not like provided, run the cell again.
