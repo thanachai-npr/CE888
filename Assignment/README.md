@@ -12,3 +12,12 @@ Found 7874 images belonging to 2 classes.
 Found 8617 images belonging to 2 classes.
 
 If the output is not like provided, run the cell again.
+
+
+### EDA of data
+
+Exploratory Data Analysis can be found in EDA_Project1.ipynb
+
+Dataset must be uploaded into Google Drive first in order to uses the given code
+
+Run the code sequentially
